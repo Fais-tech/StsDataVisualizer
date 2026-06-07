@@ -1,0 +1,87 @@
+Encounter,Act,Difficulty,Times Seen,Avg Damage,Avg Turns,Times Killed Player
+Corpse Slugs Normal,underdocks,normal,39,8.90,4.10,0
+Corpse Slugs Weak,underdocks,normal,182,6.43,4.02,0
+Cultists Normal,underdocks,normal,43,3.93,4.26,0
+Fossil Stalker Normal,underdocks,normal,45,6.33,3.44,2
+Gremlin Merc Normal,underdocks,normal,38,9.45,4.95,0
+Haunted Ship Normal,underdocks,normal,53,8.09,3.87,2
+Living Fog Normal,underdocks,normal,37,8.86,4.19,2
+Punch Construct Normal,underdocks,normal,48,8.52,4.08,3
+Punch Off Event Encounter,underdocks,normal,6,27.33,6.33,0
+Seapunk Normal,underdocks,normal,15,10.27,5.20,0
+Seapunk Weak,underdocks,normal,168,4.87,3.72,2
+Sewer Clam Normal,underdocks,normal,46,4.65,4.63,1
+Sludge Spinner Weak,underdocks,normal,193,4.49,3.55,2
+Toadpoles Normal,underdocks,normal,23,5.26,3.48,1
+Toadpoles Weak,underdocks,normal,162,5.79,4.06,2
+Two Tailed Rats Normal,underdocks,normal,52,6.77,4.10,4
+Phantasmal Gardeners Elite,underdocks,elite,130,25.02,5.88,10
+Skulking Colony Elite,underdocks,elite,146,23.86,6.66,12
+Terror Eel Elite,underdocks,elite,143,27.05,6.32,18
+Lagavulin Matriarch Boss,underdocks,boss,66,28.95,9.52,11
+Soul Fysh Boss,underdocks,boss,50,32.90,9.90,5
+Waterfall Giant Boss,underdocks,boss,62,41.69,10.31,17
+Cubex Construct Normal,overgrowth,normal,37,6.97,4.22,0
+Dense Vegetation Event Encounter,overgrowth,normal,9,27.89,5.00,0
+Flyconid Normal,overgrowth,normal,34,9.79,4.29,0
+Fogmog Normal,overgrowth,normal,46,5.67,4.48,1
+Fuzzy Wurm Crawler Weak,overgrowth,normal,183,3.18,4.15,0
+Inklets Normal,overgrowth,normal,44,10.25,4.11,1
+Mawler Normal,overgrowth,normal,45,8.64,4.18,0
+Nibbits Normal,overgrowth,normal,47,7.43,5.04,1
+Nibbits Weak,overgrowth,normal,204,4.62,3.94,1
+Overgrowth Crawlers,overgrowth,normal,40,10.48,5.57,1
+Ruby Raiders Normal,overgrowth,normal,45,10.93,3.84,2
+Shrinker Beetle Weak,overgrowth,normal,186,3.03,3.60,0
+Slimes Normal,overgrowth,normal,28,9.93,4.71,0
+Slimes Weak,overgrowth,normal,187,5.04,4.47,0
+Slithering Strangler Normal,overgrowth,normal,46,8.96,4.24,2
+Snapping Jaxfruit Normal,overgrowth,normal,42,11.45,4.79,1
+Vine Shambler Normal,overgrowth,normal,51,10.75,4.53,0
+Bygone Effigy Elite,overgrowth,elite,159,18.13,4.56,15
+Byrdonis Elite,overgrowth,elite,150,24.24,4.90,6
+Phrog Parasite Elite,overgrowth,elite,154,22.24,6.81,22
+Ceremonial Beast Boss,overgrowth,boss,74,31.88,9.15,10
+The Kin Boss,overgrowth,boss,69,35.72,9.77,12
+Vantom Boss,overgrowth,boss,59,37.81,9.44,15
+Bowlbugs Normal,hive,normal,48,12.17,4.29,1
+Bowlbugs Weak,hive,normal,156,8.06,3.54,0
+Chompers Normal,hive,normal,70,13.64,5.04,1
+Exoskeletons Normal,hive,normal,54,11.26,4.30,3
+Exoskeletons Weak,hive,normal,146,9.12,4.06,0
+Hunter Killer Normal,hive,normal,74,17.03,4.65,3
+Louse Progenitor Normal,hive,normal,65,7.68,5.38,5
+Mysterious Knight Event Encounter,hive,normal,9,26.78,4.22,0
+Mytes Normal,hive,normal,51,13.41,4.80,1
+Ovicopter Normal,hive,normal,58,14.10,4.50,4
+Slumbering Beetle Normal,hive,normal,59,18.37,5.95,6
+Spiny Toad Normal,hive,normal,70,15.16,4.26,3
+The Obscura Normal,hive,normal,59,11.83,4.95,7
+Thieving Hopper Weak,hive,normal,163,12.21,4.02,1
+Tunneler Normal,hive,normal,36,10.97,5.08,2
+Tunneler Weak,hive,normal,151,8.35,4.55,1
+Decimillipede Elite,hive,elite,179,28.85,4.38,23
+Entomancer Elite,hive,elite,175,24.64,5.46,14
+Infested Prisms Elite,hive,elite,180,23.08,5.72,10
+Kaiser Crab Boss,hive,boss,62,35.66,7.76,11
+Knowledge Demon Boss,hive,boss,75,38.23,8.03,13
+The Insatiable Boss,hive,boss,87,36.13,8.39,23
+Axebots Normal,glory,normal,31,7.74,5.35,1
+Battleworn Dummy Event Encounter,glory,normal,25,0.20,2.88,0
+Construct Menagerie Normal,glory,normal,22,14.82,3.82,1
+Devoted Sculptor Weak,glory,normal,113,8.72,4.12,1
+Fabricator Normal,glory,normal,36,19.11,3.89,2
+Frog Knight Normal,glory,normal,36,9.89,5.11,4
+Globe Head Normal,glory,normal,30,9.00,3.83,0
+Owl Magistrate Normal,glory,normal,42,11.31,4.76,0
+Scrolls Of Biting Normal,glory,normal,38,10.05,2.82,3
+Scrolls Of Biting Weak,glory,normal,119,8.13,2.87,0
+Slimed Berserker Normal,glory,normal,39,7.13,5.05,0
+The Lost And Forgotten Normal,glory,normal,31,8.94,4.39,0
+Turret Operator Weak,glory,normal,116,8.99,3.43,0
+Knights Elite,glory,elite,108,22.78,4.73,7
+Mecha Knight Elite,glory,elite,109,27.48,5.92,4
+Soul Nexus Elite,glory,elite,110,23.67,4.83,4
+Doormaker Boss,glory,boss,59,30.66,8.19,7
+Queen Boss,glory,boss,70,39.64,8.04,12
+Test Subject Boss,glory,boss,63,47.13,8.95,12
